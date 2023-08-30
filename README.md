@@ -2,7 +2,7 @@
 - I'm from germany and currently studying computer sience with a focus on object-oriented programming.
 - 👀 I’m interested in .NET, C#, C++, Dreams, UE.
 - 🌱 I’m currently learning to much :')
-- 💞️ I’m looking to collaborate on an Open Source Project where my knowlege could be useful in 
+- 💞️ I’m looking for a job :')
 - 📫 How to reach me: niedermaierbernd@web.de
 
 <!---
